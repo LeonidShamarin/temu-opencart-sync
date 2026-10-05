@@ -1,0 +1,5 @@
+config        sold  oversold  mismatch  summaries  crashes  review  idle%  api_calls  (5 seeds x 30 days)
+naive        14250      3125         0        450       28     200    1.4      46897
+full         13179        14         0        450       21     178    1.4      33126
+diff         13181        14         0        450       21     175    1.4      33088
+diff+safety1 12550        11         0        450       18     180    1.4      32887
